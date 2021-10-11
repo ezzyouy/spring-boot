@@ -6,7 +6,7 @@ import javax.persistence.*;
 import java.util.Set;
 
 /**
- * @author Sofia BOUAGRA
+ * @author Brahim Ezzyouy
  * @project PFE_Project
  */
 
