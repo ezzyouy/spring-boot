@@ -4,7 +4,7 @@ import lombok.*;
 import javax.persistence.*;
 
 /**
- * @author Sofia BOUAGRA
+ * @author Brahim Ezzyouy
  * @project PFE_Project
  */
 
