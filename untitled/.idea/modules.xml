@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PFE_Project_Frontend/Front.iml" filepath="$PROJECT_DIR$/../PFE_Project_Frontend/Front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PFE_Project_Backend/PFE_Project.iml" filepath="$PROJECT_DIR$/../PFE_Project_Backend/PFE_Project.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PFE_Project:war">
+    <output-path>$PROJECT_DIR$/../PFE_Project_Backend/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>PFE_Project</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="PFE_Project.war">
+      <element id="artifact" artifact-name="PFE_Project:war exploded" />
+    </root>
+  </artifact>
+</component>

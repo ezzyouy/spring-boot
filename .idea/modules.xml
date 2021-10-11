@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Etudes/LP 2020-2021/Programmation Java/IdeaProjects/PFE_Project/PFE_Project_Backend/Backend.iml" filepath="$PROJECT_DIR$/../Etudes/LP 2020-2021/Programmation Java/IdeaProjects/PFE_Project/PFE_Project_Backend/Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Etudes/LP 2020-2021/Programmation Java/IdeaProjects/PFE_Project/PFE_Project_Frontend/Frontend.iml" filepath="$PROJECT_DIR$/../Etudes/LP 2020-2021/Programmation Java/IdeaProjects/PFE_Project/PFE_Project_Frontend/Frontend.iml" />
+    </modules>
+  </component>
+</project>

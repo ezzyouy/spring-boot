@@ -1,0 +1,9 @@
+ma\cigma\pfe\module1\dto\DemandDto.class
+ma\cigma\pfe\module1\security\SecurityConfig.class
+ma\cigma\pfe\module1\controllers\DemandController.class
+ma\cigma\pfe\module1\ApplicationFrontend.class
+ma\cigma\pfe\module1\controllers\FactureController.class
+ma\cigma\pfe\module1\security\SecurityInitalizer.class
+ma\cigma\pfe\module1\dto\ClientDto.class
+ma\cigma\pfe\module1\controllers\ClientController.class
+ma\cigma\pfe\module1\dto\FactureDto.class

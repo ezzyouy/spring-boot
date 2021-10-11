@@ -1,0 +1,14 @@
+ma\cigma\pfe\module1\services\DemandService.class
+ma\cigma\pfe\module1\services\impl\ClientServiceImpl.class
+ma\cigma\pfe\module1\models\AccountId.class
+ma\cigma\pfe\module1\models\Client.class
+ma\cigma\pfe\module1\services\impl\DemandServiceImpl.class
+ma\cigma\pfe\module1\models\ClientMoral.class
+ma\cigma\pfe\module1\models\Demand.class
+ma\cigma\pfe\module1\resources\ClientResources.class
+ma\cigma\pfe\module1\dao\DemandDao.class
+ma\cigma\pfe\module1\models\Account.class
+ma\cigma\pfe\module1\services\ClientService.class
+ma\cigma\pfe\module1\models\ClientPhysique.class
+ma\cigma\pfe\module1\dao\ClientDao.class
+ma\cigma\pfe\module1\resources\DemandResources.class

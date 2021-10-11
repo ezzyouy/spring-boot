@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Frontend:war">
+    <output-path>$PROJECT_DIR$/../Etudes/LP 2020-2021/Programmation Java/IdeaProjects/PFE_Project/PFE_Project_Frontend/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Frontend</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="PFE_Project.war">
+      <element id="artifact" artifact-name="Frontend:war exploded" />
+    </root>
+  </artifact>
+</component>
