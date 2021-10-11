@@ -5,7 +5,7 @@ import ma.cigma.pfe.module1.dto.FactureEntity;
 import java.util.List;
 
 /**
- * @author Sofia BOUAGRA
+ * @author Brahim Ezzyouy
  * @project PFE_SpringBoot
  */
 public interface FactureServices {
