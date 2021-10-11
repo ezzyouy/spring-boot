@@ -5,7 +5,7 @@ import javax.persistence.Embeddable;
 import java.io.Serializable;
 
 /**
- * @author Sofia BOUAGRA
+ * @author Brahim Ezzyouy
  * @project PFE_Project
  */
 
